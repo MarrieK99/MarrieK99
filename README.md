@@ -26,7 +26,7 @@ Here's what I've been working on:🌱
 
 - ![Assembly](https://img.shields.io/badge/-Assembly-008000?style=for-the-badge&logo=assembly&logoColor=white) **Assembly**: Diving into low-level programming with Assembly.
 
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) **Linux**: Embracing the power of open-source with Linux.
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) **Linux**: Embracing the power of open-source with Linux.
 
 <hr>
 
