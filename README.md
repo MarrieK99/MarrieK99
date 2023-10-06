@@ -9,7 +9,8 @@
 <hr>
 ◎ 🔭 I’m currently working on <strong>c/c++</strong>
 
-◎ 🌱 I’m currently learning <strong>python</strong>
+
+◎ 🌱 I’m constantly learning and improving my skills. Currently learning <strong>python</strong>
 
 ◎ 👨‍💻 All of my projects are available at  <a href="https://github.com/MarrieK99"><img src="https://img.shields.io/badge/GitHub-My Projects-pink" alt="GitHub"></a>
 
