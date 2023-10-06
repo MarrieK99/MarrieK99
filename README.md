@@ -34,12 +34,4 @@
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MarrieK99)
 
-### GitHub Activity
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=MarrieK99&bg_color=fff&color=000&line=000&point=00FF00)
-
-### My Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarrieK99&repo=alx-system_engineering-devops)](https://github.com/MarrieK99/alx-system_engineering-devops)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarrieK99&repo=my-repo-2)](https://github.com/MarrieK99/my-repo-2)
  
