@@ -10,7 +10,8 @@
 
 ### Exploring a Diverse Tech Stack 🛠️
 
-I'm on an exciting journey to expand my skills and explore a diverse range of tools and technologies. Here's what I've been working on:
+I'm on an exciting journey to expand my skills and explore a diverse range of tools and technologies. 
+Here's what I've been working on:🌱
 
 - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) **Shell Scripting**: Building automation and efficiency with Bash scripting.
 
@@ -23,6 +24,8 @@ I'm on an exciting journey to expand my skills and explore a diverse range of to
 - ![GNU](https://img.shields.io/badge/-GNU-4B32C3?style=for-the-badge&logo=gnu&logoColor=white) **GNU**: Exploring the GNU tools and open-source software.
 
 - ![Assembly](https://img.shields.io/badge/-Assembly-008000?style=for-the-badge) **Assembly**: Diving into low-level programming with Assembly.
+
+  <hr>
 
 ◎ 👨‍💻 All of my projects are available at  <a href="https://github.com/MarrieK99"><img src="https://img.shields.io/badge/GitHub-My Projects-pink" alt="GitHub"></a>
 
