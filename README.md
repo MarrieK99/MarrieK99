@@ -1,11 +1,11 @@
 <h1 style="color:pink;">Hi 👋🏿, I'm <em>Marrie Karanja</em></h1>
 <h2 style="color:pink;">I'm a self-taught software engineer passionate about DevOps, and cloud engineering.</h2>
 <h3 style="color:pink;">My unique perspective in coming up with tech solutions is fueled by my diverse career experiences.</h3>
-
+<hr>
 ### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarrieK99&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
+<hr>
 ◎ 🔭 I’m currently working on <strong>c/c++</strong>
 
 ◎ 🌱 I’m currently learning <strong>python</strong>
