@@ -25,7 +25,9 @@ Here's what I've been working on:🌱
 
 - ![Assembly](https://img.shields.io/badge/-Assembly-008000?style=for-the-badge) **Assembly**: Diving into low-level programming with Assembly.
 
-  <hr>
+- ![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/256px-Tux.svg.png) [Learn more](https://www.linux.org/) **Linux**: Embracing the power of open-source with Linux.
+
+<hr>
 
 ◎ 👨‍💻 All of my projects are available at  <a href="https://github.com/MarrieK99"><img src="https://img.shields.io/badge/GitHub-My Projects-pink" alt="GitHub"></a>
 
