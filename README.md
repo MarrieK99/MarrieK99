@@ -12,17 +12,17 @@
 
 I'm on an exciting journey to expand my skills and explore a diverse range of tools and technologies. Here's what I've been working on:
 
-- ![Shell Scripting](shell-logo.png) **Shell Scripting**: Building automation and efficiency with Bash scripting.
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) **Shell Scripting**: Building automation and efficiency with Bash scripting.
 
-- ![C/C++](c-cpp-logo.png) **C/C++**: Delving into systems programming and low-level languages.
+- ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) **C/C++**: Delving into systems programming and low-level languages.
 
-- ![Python](python-logo.png) **Python**: Leveraging the power of Python for a variety of applications.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**: Leveraging the power of Python for a variety of applications.
 
-- ![HTML](html-logo.png) **HTML**: Crafting web content and understanding the foundation of the internet.
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML**: Crafting web content and understanding the foundation of the internet.
 
-- ![GNU](gnu-logo.png) **GNU**: Exploring the GNU tools and open-source software.
+- ![GNU](https://img.shields.io/badge/-GNU-4B32C3?style=for-the-badge&logo=gnu&logoColor=white) **GNU**: Exploring the GNU tools and open-source software.
 
-- ![Assembly](assembly-logo.png) **Assembly**: Diving into low-level programming with Assembly.
+- ![Assembly](https://img.shields.io/badge/-Assembly-008000?style=for-the-badge) **Assembly**: Diving into low-level programming with Assembly.
 
 ◎ 👨‍💻 All of my projects are available at  <a href="https://github.com/MarrieK99"><img src="https://img.shields.io/badge/GitHub-My Projects-pink" alt="GitHub"></a>
 
