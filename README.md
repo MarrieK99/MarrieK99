@@ -16,7 +16,21 @@
 
 ◎ 💬 Ask me about <strong>linux/bash</strong>, <strong>c/c++ </strong> and <strong>python</strong>
 
-◎ 📫 How to reach me njambimarrie@gmail.com
+◎ 📫 How to reach me <style>
+.email-button {
+    background-color: #3498db;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+</style>
+
 
 ◎ 📄 Let's connect [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryanne-karanja-783333234/) , build, and collaborate! Feel free to reach out and explore my projects below.
 
@@ -38,6 +52,6 @@
 
 ### My Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarrieK99&repo=my-repo-1)](https://github.com/MarrieK99/my-repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarrieK99&repo=alx-system_engineering-devops)](https://github.com/MarrieK99/alx-system_engineering-devops)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarrieK99&repo=my-repo-2)](https://github.com/MarrieK99/my-repo-2)
  
