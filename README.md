@@ -1,13 +1,13 @@
-<h1 style="color:pink;">Hi 👋🏿, I'm <strong><em>Marrie Karanja</em></strong></h1>
-<h2 style="color:pink;">I'm a <strong><em>self-taught</em></strong> software engineer <strong><em>passionate</em></strong> about <strong><em>DevOps</em></strong> , and <strong><em>cloud engineering</em></strong>.</h2>
-<h3 style="color:pink;">My <strong><em>unique perspective </em></strong>in coming up with <strong><em>tech solutions </em></strong>is fueled by my <strong><em>diverse career experiences</em></strong>.</h3>
+<h1 style="color:pink;">Hi 👋🏿, I'm <em>Marrie Karanja</em></h1>
+<h2 style="color:pink;">I'm a <em>self-taught</em> software engineer <em>passionate</em> about <em>DevOps</em>, and <em>cloud engineering</em>.</h2>
+<h3 style="color:pink;">My <em>unique perspective </em> in coming up with <em>tech solutions </em> is fueled by my <em>diverse career experiences</em>.</h3>
 
 
 ◎ 🔭 I’m currently working on <strong>c/c++</strong>
 
 ◎ 🌱 I’m currently learning <strong>python</strong>
 
-◎ 👨‍💻 All of my projects are available at  [![GitHub](https://img.shields.io/badge/GitHub-My Projects-pink)](https://github.com/MarrieK99)
+◎ 👨‍💻 All of my projects are available at <a href="https://github.com/MarrieK99"><img src="https://img.shields.io/badge/GitHub-My Projects-pink" alt="GitHub"></a>
 
 ◎ 📝 I regularly create content and document my journey, explore my links on [![Linktree](https://img.shields.io/badge/Linktree-Explore-green)](https://linktr.ee/techmaidenmarrie)
 
