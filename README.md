@@ -16,7 +16,9 @@
 
 ◎ 💬 Ask me about <strong>linux/bash</strong>, <strong>c/c++ </strong> and <strong>python</strong>
 
-◎ 📫 How to reach me <a href="mailto:njambimarrie@gmail.com"><button class="email-button">Send Email</button></a>
+◎ 📫 **How to reach me:**
+
+<a href="mailto:njambimarrie@gmail.com"><button class="email-button">Send Email</button></a>
 
 ◎ 📄 Let's connect [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryanne-karanja-783333234/) , build, and collaborate! Feel free to reach out and explore my projects below.
 
