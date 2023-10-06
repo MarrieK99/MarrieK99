@@ -10,7 +10,8 @@
 
 ### Exploring a Diverse Tech Stack 🛠️
 
-I'm on an exciting journey to expand my skills and explore a diverse range of tools and technologies. 
+I'm on an exciting journey to expand my skills and explore a diverse range of tools and technologies.
+
 Here's what I've been working on:🌱
 
 - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) **Shell Scripting**: Building automation and efficiency with Bash scripting.
@@ -25,7 +26,7 @@ Here's what I've been working on:🌱
 
 - ![Assembly](https://img.shields.io/badge/-Assembly-008000?style=for-the-badge) **Assembly**: Diving into low-level programming with Assembly.
 
-- ![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg) **Linux**: Embracing the power of open-source with Linux.
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge) **Linux**: Embracing the power of open-source with Linux.
 
 <hr>
 
@@ -39,8 +40,8 @@ Here's what I've been working on:🌱
 
 ◎ 📫 Feel free to reach out and explore my projects below.<hr> <h3>Contact Me</h3>
 [![Send Email](https://img.shields.io/badge/Send%20Email-njambimarrie%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njambimarrie@gmail.com)
-
 <hr>
+
 ### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarrieK99&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
