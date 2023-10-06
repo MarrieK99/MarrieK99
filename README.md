@@ -21,7 +21,7 @@
 
 ◎ 📄 Let's connect, build, and collaborate! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryanne-karanja-783333234/)
 
-◎ 📫 Feel free to reach out and explore my projects below.<hr> <h4>Contact Me</h4>
+◎ 📫 Feel free to reach out and explore my projects below.<hr> <h3>Contact Me</h3>
 [![Send Email](https://img.shields.io/badge/Send%20Email-njambimarrie%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njambimarrie@gmail.com)
 
 
