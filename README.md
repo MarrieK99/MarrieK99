@@ -11,37 +11,30 @@
 
 
 ◎ 🌱 I’m constantly learning and improving my skills. Currently learning <strong>python</strong>
+<hr>
 
+### Exploring a Diverse Tech Stack 🛠️
+
+I'm on an exciting journey to expand my skills and explore a diverse range of tools and technologies. Here's what I've been working on:
+
+- ![Shell Scripting](shell-logo.png) **Shell Scripting**: Building automation and efficiency with Bash scripting.
+
+- ![C/C++](c-cpp-logo.png) **C/C++**: Delving into systems programming and low-level languages.
+
+- ![Python](python-logo.png) **Python**: Leveraging the power of Python for a variety of applications.
+
+- ![HTML](html-logo.png) **HTML**: Crafting web content and understanding the foundation of the internet.
+
+- ![GNU](gnu-logo.png) **GNU**: Exploring the GNU tools and open-source software.
+
+- ![Assembly](assembly-logo.png) **Assembly**: Diving into low-level programming with Assembly.
 
 ◎ 👨‍💻 All of my projects are available at  <a href="https://github.com/MarrieK99"><img src="https://img.shields.io/badge/GitHub-My Projects-pink" alt="GitHub"></a>
 
 ◎ 📝 I regularly create content and document my journey, explore my links on  [![Linktree](https://img.shields.io/badge/Linktree-Explore-green)](https://linktr.ee/techmaidenmarrie)
 
 ◎ 💬 Ask me about <strong>linux</strong>,<strong>bash</strong>, <strong>c/c++ </strong> and <strong>python</strong>
-<hr>
-### Exploring a Diverse Tech Stack 🛠️
 
-I'm on an exciting journey to expand my skills and explore a diverse range of tools and technologies. Here's what I've been working on:
-
-- **Shell Scripting**: Building automation and efficiency with Bash scripting.
-  [![Bash](https://raw.githubusercontent.com/MarrieK99/tech-icons/main/bash.png)](https://github.com/MarrieK99)
-
-- **C/C++**: Delving into systems programming and low-level languages.
-  [![C/C++](https://raw.githubusercontent.com/MarrieK99/tech-icons/main/c-cplusplus.png)](https://github.com/MarrieK99)
-
-- **Python**: Leveraging the power of Python for a variety of applications.
-  [![Python](https://raw.githubusercontent.com/MarrieK99/tech-icons/main/python.png)](https://github.com/MarrieK99)
-
-- **HTML**: Crafting web content and understanding the foundation of the internet.
-  [![HTML](https://raw.githubusercontent.com/MarrieK99/tech-icons/main/html.png)](https://github.com/MarrieK99)
-
-- **GNU**: Exploring the GNU tools and open-source software.
-  [![GNU](https://raw.githubusercontent.com/MarrieK99/tech-icons/main/gnu.png)](https://github.com/MarrieK99)
-
-- **Assembly**: Diving into low-level programming with Assembly.
-  [![Assembly](https://raw.githubusercontent.com/MarrieK99/tech-icons/main/assembly.png)](https://github.com/MarrieK99)
-
-<hr>
 ◎ 📄 Let's connect, build, and collaborate! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryanne-karanja-783333234/)
 
 ◎ 📫 Feel free to reach out and explore my projects below.<hr> <h3>Contact Me</h3>
