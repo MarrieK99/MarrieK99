@@ -1,5 +1,5 @@
 <h1 style="color:pink;">Hi 👋🏿, I'm <strong><em>Marrie Karanja</em></strong></h1>
-<h2 style="color:pink;">I'm a <strong><em>self-taught</em></strong>software engineer <strong><em>passionate</em></strong> about <strong><em>DevOps</em></strong> , and <strong><em>cloud engineering</em></strong>.</h2>
+<h2 style="color:pink;">I'm a <strong><em>self-taught</em></strong> software engineer <strong><em>passionate</em></strong> about <strong><em>DevOps</em></strong> , and <strong><em>cloud engineering</em></strong>.</h2>
 <h3 style="color:pink;">My <strong><em>unique perspective </em></strong>in coming up with <strong><em>tech solutions </em></strong>is fueled by my <strong><em>diverse career experiences</em></strong>.</h3>
 
 
