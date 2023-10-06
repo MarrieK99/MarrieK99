@@ -16,7 +16,7 @@
 
 ◎ 💬 Ask me about <strong>linux</strong>,<strong>bash</strong>, <strong>c/c++ </strong> and <strong>python</strong>
 
-◎ 📫 <h4 Contact Me </h4>
+◎ 📫 <h4>Contact Me</h4>
 
 [![Send Email](https://img.shields.io/badge/Send%20Email-njambimarrie%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njambimarrie@gmail.com)
 
