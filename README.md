@@ -7,11 +7,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarrieK99&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
-◎ 🔭 I’m currently working on <strong>c/c++</strong>
-
-
-◎ 🌱 I’m constantly learning and improving my skills. Currently learning <strong>python</strong>
-<hr>
 
 ### Exploring a Diverse Tech Stack 🛠️
 
