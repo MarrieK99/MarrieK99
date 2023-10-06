@@ -24,9 +24,9 @@ Here's what I've been working on:🌱
 
 - ![GNU](https://img.shields.io/badge/-GNU-4B32C3?style=for-the-badge&logo=gnu&logoColor=white) **GNU**: Exploring the GNU tools and open-source software.
 
-- ![Assembly](https://img.shields.io/badge/-Assembly-008000?style=for-the-badge) **Assembly**: Diving into low-level programming with Assembly.
+- ![Assembly](https://img.shields.io/badge/-Assembly-008000?style=for-the-badge&logo=assembly&logoColor=white) **Assembly**: Diving into low-level programming with Assembly.
 
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge) **Linux**: Embracing the power of open-source with Linux.
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) **Linux**: Embracing the power of open-source with Linux.
 
 <hr>
 
