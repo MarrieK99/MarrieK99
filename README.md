@@ -16,9 +16,9 @@
 
 ◎ 💬 Ask me about <strong>linux</strong>,<strong>bash</strong>, <strong>c/c++ </strong> and <strong>python</strong>
 
-◎ 📄 Let's connect [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryanne-karanja-783333234/) , build, and collaborate! Feel free to reach out and explore my projects below.
+◎ 📄 Let's connect, build, and collaborate! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryanne-karanja-783333234/)
 
-◎ 📫 <h4>Contact Me</h4>
+◎ 📫 Feel free to reach out and explore my projects below. <h4>Contact Me</h4>
 [![Send Email](https://img.shields.io/badge/Send%20Email-njambimarrie%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njambimarrie@gmail.com)
 
 
