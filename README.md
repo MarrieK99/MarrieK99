@@ -12,6 +12,7 @@
 
 ◎ 🌱 I’m constantly learning and improving my skills. Currently learning <strong>python</strong>
 
+
 ◎ 👨‍💻 All of my projects are available at  <a href="https://github.com/MarrieK99"><img src="https://img.shields.io/badge/GitHub-My Projects-pink" alt="GitHub"></a>
 
 ◎ 📝 I regularly create content and document my journey, explore my links on  [![Linktree](https://img.shields.io/badge/Linktree-Explore-green)](https://linktr.ee/techmaidenmarrie)
